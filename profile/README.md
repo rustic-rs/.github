@@ -25,8 +25,8 @@ If you are eager to contribute, please read our contribution guidelines [here](h
 You can ask questions in the [Discussions](https://github.com/rustic-rs/rustic/discussions) or have a look at the
 [FAQ](https://rustic.cli.rs/docs/FAQ.html).
 
-| Contact       | Where?                                                                                                   |
+| Contact       | Where?                                                                                                   |
 | ------------- | -------------------------------------------------------------------------------------------------------- |
-| Issue Tracker | [GitHub Issues](https://github.com/rustic-rs/rustic/issues)                                              |
-| Discord       | [![](https://dcbadge.vercel.app/api/server/WRUWENZnzQ?style=flat-square)](https://discord.gg/WRUWENZnzQ) |
-| Discussions   | [GitHub Discussions](https://github.com/rustic-rs/rustic/discussions)
+| Issue Tracker | [GitHub Issues](https://github.com/rustic-rs/rustic/issues)                                              |
+| Discord       | [![](https://dcbadge.vercel.app/api/server/WRUWENZnzQ?style=flat-square)](https://discord.gg/WRUWENZnzQ) |
+| Discussions   | [GitHub Discussions](https://github.com/rustic-rs/rustic/discussions)
