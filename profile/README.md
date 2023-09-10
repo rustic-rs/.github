@@ -1,4 +1,15 @@
-## 🦀 rustic - fast, encrypted and deduplicated backups
+<p align="center">
+<img src="https://media.githubusercontent.com/media/rustic-rs/docs/main/assets/readme_header.png" height="400" />
+</p>
+<p align="center">
+<b>fast, encrypted, and deduplicated backups</b>
+</p>
+
+<p align="center">
+<a href="https://crates.io/crates/rustic-rs"><img src="https://img.shields.io/crates/v/rustic-rs.svg" /></a>
+<a href="https://raw.githubusercontent.com/rustic-rs/rustic/main/"><img src="https://img.shields.io/badge/license-Apache2.0/MIT-blue.svg" /></a>
+<a href="https://crates.io/crates/rustic-rs"><img src="https://img.shields.io/crates/d/rustic-rs.svg" /></a>
+<p>
 
 ### 🙋‍♀️ Introduction
 
