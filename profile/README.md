@@ -25,6 +25,8 @@ Hence rustic supports all major operating systems (Linux, MacOs, *BSD), with Win
 
 - [rustic - deduplicated, encrypted backups](https://github.com/rustic-rs/rustic/)
 - [rustic_core - the library powering rustic](https://github.com/rustic-rs/rustic/tree/main/crates/rustic_core)
+- [rustic_server - a REST server for rustic and restic](https://github.com/rustic-rs/rustic_server)
+- [rustic_scheduler - centrally schedule rustic backups](https://github.com/rustic-rs/rustic_scheduler)
 - [rustic Documentation](https://rustic.cli.rs/docs)
 
 ### 🛠️ Contributing
