@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.githubusercontent.com/media/rustic-rs/docs/main/assets/readme_header.png" height="400" />
+<img src="https://media.githubusercontent.com/media/rustic-rs/assets/main/logos/readme_header.png" height="400" />
 </p>
 <p align="center">
 <b>fast, encrypted, and deduplicated backups</b>
@@ -27,7 +27,8 @@ Hence rustic supports all major operating systems (Linux, MacOs, *BSD), with Win
 - [rustic_core - the library powering rustic](https://github.com/rustic-rs/rustic/tree/main/crates/rustic_core)
 - [rustic_server - a REST server for rustic and restic](https://github.com/rustic-rs/rustic_server)
 - [rustic_scheduler - centrally schedule rustic backups](https://github.com/rustic-rs/rustic_scheduler)
-- [rustic Documentation](https://rustic.cli.rs/docs)
+- [rustic User Documentation](https://rustic.cli.rs/docs)
+- [rustic Dev Documentation](https://rustic.cli.rs/dev-docs)
 
 ### 🛠️ Contributing
 
