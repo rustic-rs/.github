@@ -32,7 +32,7 @@ Hence rustic supports all major operating systems (Linux, MacOs, *BSD), with Win
 
 ### 🛠️ Contributing
 
-If you are eager to contribute, please read our contribution guidelines [here](https://rustic.cli.rs/dev-docs/contributing-to-rustic.html).
+If you are eager to contribute, please read our contribution guidelines [here](https://rustic.cli.rs/docs/contributing-to-rustic.html).
 
 ### 📞 Contact
 
