@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.githubusercontent.com/media/rustic-rs/assets/main/logos/readme_header.png" height="200" />
+<img src="https://media.githubusercontent.com/media/rustic-rs/assets/main/logos/readme_header.png" height="300" />
 </p>
 <p align="center">
 <b>fast, encrypted, and deduplicated backups</b>
