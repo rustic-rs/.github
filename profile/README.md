@@ -58,7 +58,19 @@ Hence rustic supports all major operating systems (Linux, MacOs, *BSD), with Win
 
 ### 🛠️ Contributing
 
-If you are eager to contribute, please read our contribution guidelines [here](https://rustic.cli.rs/docs/contributing-to-rustic.html).
+Tried a rustic project and not satisfied? Don't just walk away! You can help:
+
+- You can report issues or suggest new features on our
+[Discord server](https://discord.gg/WRUWENZnzQ) or using the corresponding
+issue trackers in the repositories down below.
+
+Do you know how to code or got an idea for an improvement? Don't keep it to
+yourself!
+
+- Contribute fixes or new features via a pull requests!
+
+Please make sure, that you read the
+[contribution guide](https://rustic.cli.rs/docs/contributing-to-rustic.html).
 
 ### 📞 Contact
 
