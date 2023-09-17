@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.githubusercontent.com/media/rustic-rs/assets/main/logos/readme_header.png" height="300" />
+<img src="https://raw.githubusercontent.com/rustic-rs/assets/main/logos/readme_header.png" height="300" />
 </p>
 <p align="center">
 <b>fast, encrypted, and deduplicated backups</b>
@@ -24,35 +24,35 @@ Hence rustic supports all major operating systems (Linux, MacOs, *BSD), with Win
 ### Projects
 
 <table align="center">
-  <tbody align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/rustic-rs/rustic/"><img src="https://media.githubusercontent.com/media/rustic-rs/assets/main/logos/readme_header.png" height="150" /></a>
-      </td>
-      <td>
-        <a href="https://github.com/rustic-rs/rustic/tree/main/crates/rustic_core"><img src="https://media.githubusercontent.com/media/rustic-rs/assets/main/logos/readme_header_core.png" height="150" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>rustic</b><br />deduplicated, encrypted backups</td>
-      <td><b>rustic core</b><br />the library powering rustic</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/rustic-rs/rustic_scheduler"><img src="https://media.githubusercontent.com/media/rustic-rs/assets/main/logos/readme_header_scheduler.png" height="150" /></a></td>
-      <td><a href="https://github.com/rustic-rs/rustic_server"><img src="https://media.githubusercontent.com/media/rustic-rs/assets/main/logos/readme_header_server.png" height="150" /></a></td>
-    </tr>
-    <tr>
-      <td><b>rustic scheduler</b><br />centrally schedule rustic backups</td>
-      <td><b>rustic server</b><br />a REST server for rustic and restic</td>
-    </tr>
-    <tr>
-      <td><a href="https://rustic.cli.rs/docs"><img src="https://media.githubusercontent.com/media/rustic-rs/assets/main/logos/readme_header_docs.png" height="150" /></a></td>
-      <td><a href="https://rustic.cli.rs/dev-docs"><img src="https://media.githubusercontent.com/media/rustic-rs/assets/main/logos/readme_header_dev.png" height="150" /></a></td>
-    </tr>
-    <tr>
-      <td>User Documentation</td>
-      <td>Developer Documentation</td>
-    </tr>
+  <tbody align="center">
+    <tr>
+      <td>
+        <a href="https://github.com/rustic-rs/rustic/"><img src="https://raw.githubusercontent.com/rustic-rs/assets/main/logos/readme_header.png" height="150" /></a>
+      </td>
+      <td>
+        <a href="https://github.com/rustic-rs/rustic/tree/main/crates/rustic_core"><img src="https://raw.githubusercontent.com/rustic-rs/assets/main/logos/readme_header_core.png" height="150" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>rustic</b><br />deduplicated, encrypted backups</td>
+      <td><b>rustic core</b><br />the library powering rustic</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rustic-rs/rustic_scheduler"><img src="https://raw.githubusercontent.com/rustic-rs/assets/main/logos/readme_header_scheduler.png" height="150" /></a></td>
+      <td><a href="https://github.com/rustic-rs/rustic_server"><img src="https://raw.githubusercontent.com/rustic-rs/assets/main/logos/readme_header_server.png" height="150" /></a></td>
+    </tr>
+    <tr>
+      <td><b>rustic scheduler</b><br />centrally schedule rustic backups</td>
+      <td><b>rustic server</b><br />a REST server for rustic and restic</td>
+    </tr>
+    <tr>
+      <td><a href="https://rustic.cli.rs/docs"><img src="https://raw.githubusercontent.com/rustic-rs/assets/main/logos/readme_header_docs.png" height="150" /></a></td>
+      <td><a href="https://rustic.cli.rs/dev-docs"><img src="https://raw.githubusercontent.com/rustic-rs/assets/main/logos/readme_header_dev.png" height="150" /></a></td>
+    </tr>
+    <tr>
+      <td>User Documentation</td>
+      <td>Developer Documentation</td>
+    </tr>
 </tbody>
 </table>
 
@@ -66,21 +66,22 @@ You can ask questions in the [Discussions](https://github.com/rustic-rs/rustic/d
 [FAQ](https://rustic.cli.rs/docs/FAQ.html).
 
 <table>
-  <tbody align="center">
-    <th>
-      <td>Where?</td>
-    </th>
-    <tr>
-      <td>Issue Tracker</td>
-      <td><a href="https://github.com/rustic-rs/rustic/issues">GitHub Issues</a></td>
-    </tr>
-    <tr>
-      <td>Discord</td>
-      <td><a href="https://discord.gg/WRUWENZnzQ"><img src="https://dcbadge.vercel.app/api/server/WRUWENZnzQ?style=flat-square" /></a></td>
-    </tr>
-    <tr>
-      <td>Discussions</td>
-      <td><a href="https://github.com/rustic-rs/rustic/discussions">GitHub Discussions</a></td>
-    </tr>
-  </tbody>
+  <tbody align="center">
+    <th>
+      <td>Where?</td>
+    </th>
+    <tr>
+      <td>Issue Tracker</td>
+      <td><a href="https://github.com/rustic-rs/rustic/issues">GitHub Issues</a></td>
+    </tr>
+    <tr>
+      <td>Discord</td>
+      <td><a href="https://discord.gg/WRUWENZnzQ"><img src="https://dcbadge.vercel.app/api/server/WRUWENZnzQ?style=flat-square" /></a></td>
+    </tr>
+    <tr>
+      <td>Discussions</td>
+      <td><a href="https://github.com/rustic-rs/rustic/discussions">GitHub Discussions</a></td>
+    </tr>
+  </tbody>
 </table>
+
