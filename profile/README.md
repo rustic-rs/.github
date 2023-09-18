@@ -30,7 +30,7 @@ Hence rustic supports all major operating systems (Linux, MacOs, *BSD), with Win
         <a href="https://github.com/rustic-rs/rustic/"><img src="https://raw.githubusercontent.com/rustic-rs/assets/main/logos/readme_header.png" height="150" /></a>
       </td>
       <td>
-        <a href="https://github.com/rustic-rs/rustic/tree/main/crates/rustic_core"><img src="https://raw.githubusercontent.com/rustic-rs/assets/main/logos/readme_header_core.png" height="150" /></a>
+        <a href="https://github.com/rustic-rs/rustic_core"><img src="https://raw.githubusercontent.com/rustic-rs/assets/main/logos/readme_header_core.png" height="150" /></a>
       </td>
     </tr>
     <tr>
