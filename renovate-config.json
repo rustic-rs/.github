@@ -1,0 +1,22 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "packageRules": [
+    {
+      "groupName": "actions",
+      "groupSlug": "all-actions",
+      "matchManagers": ["github-actions"],
+      "extends": ["schedule:weekly"]
+    },
+    {
+      "groupName": "rust dependencies",
+      "groupSlug": "cargo",
+      "matchManagers": ["cargo"],
+      "extends": ["schedule:weekly"]
+    }
+  ],
+  "patch": {
+    "enabled": false
+  },
+  "cloneSubmodules": true,
+  "separateMajorMinor": false
+}
